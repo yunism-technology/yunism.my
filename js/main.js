@@ -6,7 +6,7 @@ null
   $(document).ready(function () {
     if (window.location.hash && window.location.hash === '#blog') {
       $('.panel-cover').addClass('panel-cover--collapsed')
-    } else if (window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html') {
+    } else if (window.location.pathname !== '/' && window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html') {
       $('.panel-cover').addClass('panel-cover--collapsed')
     } else {
       $('.panel-cover').removeClass('panel-cover--collapsed')
