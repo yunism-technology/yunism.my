@@ -1,11 +1,12 @@
 ---
-title: "About Us"
-date: 2017-01-01 00:00:00
-categories: "pages"
-tags: "pages"
+title:  "About Us"
+date:   2017-01-01 00:00:00
+categories: [pages]
+tags:   [pages]
 ---
 
-Yunism Technology is a small team that delivers tailor-made corporate web application solution.
+Yunism Technology is a small team that delivers tailor-made corporate web
+application solution.
 
 Technology stack used are `LEMP`:
  - Linux
@@ -13,7 +14,9 @@ Technology stack used are `LEMP`:
  - MySQL (MariaDB)
  - PHP
 
-With this technology stack, no surprise we are the advocate of [Laravel][https://laravel.com]. Besides, we also develop Web Apps that run on php version 7.1 onwards.
+With this technology stack, no surprise we are the advocate of
+[Laravel][laravel-homepage]. Besides, we also develop Web Apps that run on
+php version 7.1 onwards.
 
 Our office is located at:
 
@@ -23,5 +26,8 @@ Setapak, 53300 Kuala Lumpur,
 Malaysia.
 
 
-Write to us: [us@yunism.my][mailto:us@yunism.my]
+Write to us: [us@yunism.my][yunism-email]
+
+[laravel-homepage]: https://laravel.com
+[yunism-email]:     mailto:us@yunism.my
 
