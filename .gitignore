@@ -1,6 +1,7 @@
-_site/*
+_site
 .sass-cache
-.ruby-version
-.idea/
-vendor/
-!.gitkeep
+.jekyll-metadata
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+.idea
