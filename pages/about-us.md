@@ -31,7 +31,7 @@ ___
 
 We are a software house, following typical SDLC - the waterfall model ([if it 
 exists][a-good-post-found-on-hacker-news]). Typically, the workflows (that 
-visible to client) are as following :
+visible to clients) are as following :
 
 - Conceptualisation
 - Scoping
@@ -46,9 +46,9 @@ ___
 
 - Someone that can draw Software Engineering diagrams out of something.
 - Someone that can write that thick documentation out of nothing.
-- Someone that can code.
+- Someone that can code and stay happy.
 - Someone that can design for modern web.
-- Someone that just enjoying creating value in this industry.
+- Someone that just enjoy creating value in this industry.
 
 ___
 ### Where we are
