@@ -2,7 +2,7 @@
 title: 'Yunism Technology'
 description: '- System Development - Computerisation - Technology Consultation -'
 url: 'http://yunism.my'
-baseurl: '/'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -21,6 +21,12 @@ defaults:
       type: 'posts'
     values:
         layout: 'post'
+  -
+    scope:
+      path: ''
+      type: 'pages'
+    values:
+        layout: 'page'
 
 # Build settings
 destination: _site
