@@ -6,28 +6,26 @@ permalink: about-us.html
 ___
 ### What do we do
 
-__Yunism Technology__ is a small team that delivers tailor-made corporate web 
-solutions.
+__Yunism Technology__ is a small team that delivers tailor-made web solutions.
 
 ___
 ### What do we use
 
-Technology stack used are `LEMP` :
+The basic technology stack used are `LEMP` :
  - Linux
  - Nginx
  - MySQL (MariaDB)
  - PHP
 
-With this technology stack, no surprise we are the advocate of
-[Laravel][laravel-homepage]. Besides, we also develop Web Apps that run on
-php version 7.1 onwards.
+On top of that, we actually use [Laravel](laravel-homepage), a powerful php 
+MVC framework. It provides a few tools that make development so much easier, 
+and yeah, we are living on that.
 
-At work, we use Apple machines, take advantage on its stability and easy 
-integration with Linux tools. So to speak, we use Terminal App on a day-to-day
-basis.
+We are also looking into [Vue.js](vuejs-homepage) as our front-end framework, 
+it makes flashy and snappy web UX easier.
 
 ___
-### How we work
+### How we work (...ideally)
 
 We are a software house, following typical SDLC - the waterfall model ([if it 
 exists][a-good-post-found-on-hacker-news]). Typically, the workflows (that 
@@ -53,10 +51,7 @@ ___
 ___
 ### Where we are
 
-As we are a small team right now, we paved a dedicated workspace from our 
-proprietor's existing office (for other industry).
-
-The office is located at:
+As we are a small team right now, we paved a small dedicated workspace located at:
 
 ```
 Yunism Technology
@@ -68,9 +63,10 @@ Malaysia.
 
 ___
 
-Write to us: [us@yunism.my][yunism-email]
+Write to us: [admin@yunism.my][yunism-email]
 
 [laravel-homepage]: https://laravel.com
+[vuejs-homepage]: https://vuejs.org
 [a-good-post-found-on-hacker-news]: https://zwischenzugs.com/2017/10/15/my-20-year-experience-of-software-development-methodologies
-[yunism-email]:     mailto:us@yunism.my
+[yunism-email]:     mailto:admin@yunism.my
 
