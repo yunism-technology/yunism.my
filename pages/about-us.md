@@ -49,19 +49,6 @@ ___
 - Someone that just enjoy creating value in this industry.
 
 ___
-### Where we are
-
-As we are a small team right now, we paved a small dedicated workspace located at:
-
-```
-Yunism Technology
-G-06, PV15, Platinum Lake Condominium,
-No. 2A, Jalan Danau Saujana,
-Setapak, 53300 Kuala Lumpur,
-Malaysia.
-```
-
-___
 
 Write to us: [admin@yunism.my][yunism-email]
 
